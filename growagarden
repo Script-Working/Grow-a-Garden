@@ -1,2 +1,2 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/thantzy/thanhub/refs/heads/main/thanv1"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Script-Working/Grow-a-Garden/refs/heads/main/yo"))()
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/k8Pe5iravJY1ieKy/raw", true))()
